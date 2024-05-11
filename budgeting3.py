@@ -8,7 +8,7 @@ expenses = []
 while True:
   
   #Prompt the user to choose an action
-  action = input("Enter 'i' to add income, 'e' to add expenses, 'v' to view financial summary, 'q' to quit")
+  action = input("Enter 'i' to add income, 'e' to add expenses, 'v' to view financial summary, 'q' to quit ")
   
   #Add income
   if action == "i":
